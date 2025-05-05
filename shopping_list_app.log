@@ -1,0 +1,22 @@
+2025-05-04 20:56:30,046:INFO:Page 1: Home Screen
+2025-05-04 20:56:30,046:INFO:Page 2: Add Item Screen
+2025-05-04 20:56:30,047:INFO:Page 3: View List Screen
+2025-05-04 20:56:30,047:INFO:Page 4: Edit Item Screen
+2025-05-04 20:56:30,047:INFO:Page 5: Settings Screen
+2025-05-04 20:56:30,047:INFO:Total Pages: 5
+2025-05-04 20:56:30,047:INFO:Navigation: Home Screen to Add Item Screen
+2025-05-04 20:56:30,047:INFO:Navigation: Home Screen to View List Screen
+2025-05-04 20:56:30,047:INFO:Navigation: View List Screen to Edit Item Screen
+2025-05-04 20:56:30,047:INFO:Navigation: View List Screen to Home Screen
+2025-05-04 20:56:30,047:INFO:Navigation: Home Screen to Settings Screen
+2025-05-04 20:58:36,500:INFO:Listed 5 pages.
+2025-05-04 20:59:12,232:INFO:Listed 5 pages.
+2025-05-04 21:02:26,454:INFO:Added item: Coke x3
+2025-05-04 21:32:20,895:INFO:Added item: Coke x3 @ $10.00
+2025-05-04 21:32:54,023:WARNING:Tax API failed. Status: 502
+2025-05-04 21:34:50,695:INFO:User exited the app.
+2025-05-04 21:35:03,504:INFO:Added item: Coke x3 @ $5.00
+2025-05-04 21:35:14,935:INFO:Added item: Biscuit x2 @ $7.00
+2025-05-04 21:35:34,350:INFO:Checkout - Subtotal: $29.00, Tax: $2.03, Total: $31.03
+2025-05-04 21:35:49,231:INFO:Shopping list cleared by user.
+2025-05-04 21:36:01,967:INFO:User exited the app.
