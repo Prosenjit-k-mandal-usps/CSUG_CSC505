@@ -1,0 +1,14 @@
+2025-05-25 01:07:37,704 INFO PHTRS system initialized.
+2025-05-25 01:07:37,704 INFO PotholeReport created: PotholeReport(id=1, address='123 Main St', size=7, loc='curb', dist='North', priority='Medium')
+2025-05-25 01:07:37,704 INFO WorkOrder created for report 1
+2025-05-25 01:07:37,705 INFO WorkOrder 1: logged 2.5h, 50kg, cost=475.00
+2025-05-25 01:07:37,705 INFO WorkOrder 1 completed. Total cost: 475.00
+2025-05-25 01:07:37,705 INFO DamageClaim created: DamageClaim(id=C1-1748149657, report=1, name='Jane Doe', amount=$100.00)
+2025-05-25 01:07:37,705 INFO Final Data: Reports, Work Orders, Claims stored in memory.
+2025-05-25 01:32:12,061 INFO PHTRS system initialized.
+2025-05-25 01:32:12,061 INFO PotholeReport created: PotholeReport(id=1, address='123 Main St', size=7, loc='curb', dist='North', priority='Medium')
+2025-05-25 01:32:12,062 INFO WorkOrder created for report 1
+2025-05-25 01:32:12,062 INFO WorkOrder 1: logged 2.5h, 50kg, cost=475.00
+2025-05-25 01:32:12,062 INFO WorkOrder 1 completed. Total cost: 475.00
+2025-05-25 01:32:12,062 INFO DamageClaim created: DamageClaim(id=C1-1748151132, report=1, name='Jane Doe', amount=$100.00)
+2025-05-25 01:32:12,062 INFO Final Data: Reports, Work Orders, Claims stored in memory.
