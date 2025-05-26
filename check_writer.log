@@ -1,0 +1,10 @@
+2025-05-25 22:33:52,554 - INFO - Received amount: 20.0
+2025-05-25 22:33:52,555 - INFO - Converted to words: Twenty Dollars and Zero Cents Only.
+2025-05-25 22:34:03,319 - ERROR - Unexpected error.
+2025-05-25 22:34:38,729 - INFO - Received amount: 22.0
+2025-05-25 22:34:38,729 - INFO - Converted to words: Twenty Two Dollars and Zero Cents Only.
+2025-05-25 22:35:50,496 - INFO - Received amount: 5.0
+2025-05-25 22:35:50,496 - INFO - Converted to words: Five Dollars and Zero Cents Only.
+2025-05-25 22:35:59,938 - INFO - Converted word input to number: 5.0
+2025-05-25 22:35:59,938 - INFO - Received amount: 5.0
+2025-05-25 22:35:59,938 - INFO - Converted to words: Five Dollars and Zero Cents Only.

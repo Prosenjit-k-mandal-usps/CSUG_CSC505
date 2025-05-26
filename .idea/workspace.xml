@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92fd765f-4af2-4d75-acef-bc4c84789fb7" name="Changes" comment="Assignemnt of Module 4" />
+    <list default="true" id="92fd765f-4af2-4d75-acef-bc4c84789fb7" name="Changes" comment="Assignemnt of Module 5">
+      <change afterPath="$PROJECT_DIR$/Module6_Assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,23 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Module1_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module2_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module3_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Module4_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Module1_Assignment.executor": "Run",
+    "Python.Module2_Assignment.executor": "Run",
+    "Python.Module3_Assignment.executor": "Run",
+    "Python.Module4_Assignment.executor": "Run",
+    "Python.Module5_Assignment.executor": "Run",
+    "Python.Module6_Assignment.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.Module5_Assignment">
+}]]></component>
+  <component name="RunManager" selected="Python.Module6_Assignment">
     <configuration name="Module1_Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CSUG_CSC505" />
       <option name="ENV_FILES" value="" />
@@ -152,6 +157,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Module6_Assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CSUG_CSC505" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Module6_Assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="CSUG_CSC505" />
       <option name="ENV_FILES" value="" />
@@ -177,6 +205,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Module6_Assignment" />
         <item itemvalue="Python.Module5_Assignment" />
         <item itemvalue="Python.Module3_Assignment" />
         <item itemvalue="Python.Module2_Assignment" />
@@ -203,6 +232,8 @@
       <workItem from="1745202574397" duration="1368000" />
       <workItem from="1745807611152" duration="4095000" />
       <workItem from="1747018103424" duration="1181000" />
+      <workItem from="1748149482757" duration="1693000" />
+      <workItem from="1748225465385" duration="1223000" />
     </task>
     <task id="LOCAL-00001" summary="Assignemnt of Module 2">
       <option name="closed" value="true" />
@@ -236,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747018603617</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Assignemnt of Module 5">
+      <option name="closed" value="true" />
+      <created>1748151166587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748151166587</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +285,8 @@
     <MESSAGE value="Assignemnt of Module 2" />
     <MESSAGE value="Assignemnt of Module 3" />
     <MESSAGE value="Assignemnt of Module 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignemnt of Module 4" />
+    <MESSAGE value="Assignemnt of Module 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignemnt of Module 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -264,5 +304,7 @@
     <SUITE FILE_PATH="coverage/CSUG_CSC505$Module2_Assignment.coverage" NAME="Module2_Assignment Coverage Results" MODIFIED="1745807776019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSUG_CSC505$Module1_Assignment.coverage" NAME="Module1_Assignment Coverage Results" MODIFIED="1745203005481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CSUG_CSC505$Module3_Assignment.coverage" NAME="Module3_Assignment Coverage Results" MODIFIED="1746408893144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSUG_CSC505$Module5_Assignment.coverage" NAME="Module5_Assignment Coverage Results" MODIFIED="1748151131887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CSUG_CSC505$Module6_Assignment.coverage" NAME="Module6_Assignment Coverage Results" MODIFIED="1748226794997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
