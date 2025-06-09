@@ -1,0 +1,13 @@
+2025-06-08 22:32:50,990 - INFO - No previous ATM state found. Starting fresh.
+2025-06-08 22:32:50,990 - INFO - STATE: Idle | EVENT: Start [N/A] / ACTION: goToAuthenticate
+2025-06-08 22:32:56,823 - INFO - STATE: Authenticate | EVENT: EnterPIN [incorrect] / ACTION: incrementCounter
+2025-06-08 22:33:08,036 - INFO - STATE: Authenticate | EVENT: EnterPIN [correct] / ACTION: goToAuthenticated
+2025-06-08 22:33:14,029 - INFO - STATE: Verify Balance | EVENT: CheckBalance [N/A] / ACTION: displayBalance
+2025-06-08 22:33:25,407 - INFO - STATE: Dispense Cash | EVENT: Withdraw [balance >= amount] / ACTION: dispenseCash
+2025-06-08 22:33:28,451 - INFO - STATE: Verify Balance | EVENT: CheckBalance [N/A] / ACTION: displayBalance
+2025-06-08 22:33:30,861 - INFO - STATE: Close Session | EVENT: Exit [N/A] / ACTION: endSession
+2025-06-08 22:33:30,863 - INFO - Saved current state: Balance=$970.0, Attempts=1
+2025-06-08 22:33:39,423 - INFO - Loaded previous state: Balance=$970.0, Attempts=1
+2025-06-08 22:33:39,424 - INFO - STATE: Idle | EVENT: Start [N/A] / ACTION: goToAuthenticate
+2025-06-08 22:33:43,213 - INFO - STATE: Authenticate | EVENT: EnterPIN [correct] / ACTION: goToAuthenticated
+2025-06-08 22:33:46,949 - INFO - STATE: Verify Balance | EVENT: CheckBalance [N/A] / ACTION: displayBalance
